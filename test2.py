@@ -1,4 +1,4 @@
-    print("Here we will test the code to see if it works!")
+print("Here we will test the code to see if it works!")
 
 print("Making sure that the numbers will return the correct word")
 print(functionfactor(3) == "pling")
