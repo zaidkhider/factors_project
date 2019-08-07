@@ -12,3 +12,6 @@ In this project, 2 files were created. These files were raindrop_function.py and
 
 raindrop_function.py - Includes the function which checks for the factors and outputs the correct sound depending on the factors.
 Test_for_code.py - This code includes a manual test, which shows different values and their output to check if it outputs the correct sounds.
+
+## How to Test the code
+To test the code, the user must open the terminal and run Pytest. This can be done by typing pytest into the terminal and hitting enter. The test will run will check to see if the tests fail or pass. If the user would like to test different values, this can be done by entering different values and seeing if they output either Pling, Plang or Plong or maybe combination of all of them. 
