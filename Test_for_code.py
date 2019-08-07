@@ -6,26 +6,19 @@ print("Making sure that the numbers will return the correct word.")
 print(raindrop_function(3) == "Pling")
 print(raindrop_function(5) == "Plang")
 print(raindrop_function(7) == "Plong")
-print(raindrop_function(11) == "11")
+print(raindrop_function(13) == "13")
 
 
 print("Testing numbers to see if they output combined raindrop sounds.")
 #Lines 13-17 check to see if the values would return the correct output.
-print(raindrop_function(15) == "PlingPlang")
-print(raindrop_function(21) == "PlingPlong")
-print(raindrop_function(35) == "PlangPlong")
-print(raindrop_function(105) == "PlingPlangPlong")
+print(raindrop_function(2) == "2")
+print(raindrop_function(9) == "Pling")
+print(raindrop_function(21)) == "PlingPlong"
 
-print("Testing random numbers to ensure that the code is functional and correct.")
-
-#Lines 22-26 check to see if the values would return the correct output.
-print(raindrop_function(96) == "Pling")
-print(raindrop_function(88) == "88")
-print(raindrop_function(84) == "PlingPlong")
-print(raindrop_function(64) == "64")
-print(raindrop_function(57) == "Pling")
 
 print("Testing inputs that should work including integers and whole numbers.")
 #Lines 30-31 check to see if the values would return the correct output.
-print(raindrop_function(15) == "PlingPlang")
-print(raindrop_function(15.0) == "PlingPlang")
+print(raindrop_function(27) == "PlingPlong")
+print(raindrop_function(27.0) == "PlingPlong")
+
+
