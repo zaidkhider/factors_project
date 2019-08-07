@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4febc95-1afb-49c4-803e-5ae2a5957d6a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Test_for_code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Test_for_code.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,8 +24,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Test_for_code.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+            <state relative-caret-position="68">
+              <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -55,8 +53,8 @@
         <option value="$PROJECT_DIR$/../Deloitte_work/test2.py" />
         <option value="$PROJECT_DIR$/test2.py" />
         <option value="$PROJECT_DIR$/raindrop_function.py" />
-        <option value="$PROJECT_DIR$/Test_for_code.py" />
         <option value="$PROJECT_DIR$/app.py" />
+        <option value="$PROJECT_DIR$/Test_for_code.py" />
       </list>
     </option>
   </component>
@@ -307,8 +305,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Test_for_code.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        <state relative-caret-position="68">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
         </state>
       </provider>
     </entry>

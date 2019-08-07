@@ -1,8 +1,8 @@
-from app import *
-                                        #This line, imports the function raindrop_function app.py so it can be tested here.
+from app import *  #This line, imports all the functions from the app.py file so it can be tested here.
+
 
 def test_factor_3(): #This part of the code creates a function that tests for a factor of 3, if there is a 3 present then the test will succeed.
-    assert find_pling(3) == "Pling" #The assert function checks if the value within brackets which in this case is 3, will check if it outputs Pling.
+    assert raindrop_function(3) == "Pling" #The assert function checks if the value within brackets which in this case is 3, will check if it outputs Pling.
     assert raindrop_function(9) == "Pling"
 
 def test_factor_5():#This part of the code creates a function that tests for a factor of 5, if there is a 5 present then the test will succeed.
