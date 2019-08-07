@@ -1,5 +1,6 @@
 from app import raindrop_function #This line, imports the function raindrop_function app.py so it can be tested here.
 print("Here we will test the code to see if it works!")
+print("If the value printed is True then we know that the test has been successful.")
 
 print("Making sure that the numbers will return the correct word.")
 #Lines 6-9 check to see if the values would return the correct output.
